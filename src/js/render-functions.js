@@ -10,11 +10,6 @@ let lightbox = new SimpleLightbox('.gallery a', {
 });
 
 export function createGallery(images) {
-  // логика создания галереи
-  console.log('Creating gallery with images:', images);
-}
-
-export function createGallery(images) {
   gallery.innerHTML = '';
 
   const markup = images

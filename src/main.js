@@ -6,7 +6,7 @@ import {
   clearGallery,
 } from './js/render-functions.js';
 import iziToast from 'izitoast';
-import 'izitoast/dist/css/iziToast.min.css';
+import 'izitoast/dist/css/iziToast.min.css'; &#8203;: contentReference[oaicite: 4]{ index = 4 };
 
 const form = document.querySelector('.form');
 const input = document.querySelector('.search-input');
